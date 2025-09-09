@@ -82,7 +82,6 @@ Click the badge at the top of this page to open the notebook directly in Colab.
    ```bash
    jupyter notebook notebooks/ecommerce_return_analysis.ipynb
 
-
 📬 Author
 
 `Dustin Roger Sherratt`
