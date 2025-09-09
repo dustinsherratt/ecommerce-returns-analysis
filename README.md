@@ -53,7 +53,7 @@ The analysis was performed in **Python (Google Colab)** with **pandas, matplotli
 ---
 
 ## 📈 Results & Deliverables  
-- 📊 **Interactive Tableau Dashboard**: [View Here](https://public.tableau.com/app/profile/dustin.sherratt/viz/ExtendedCase2_17442367562910/StudentCount)  
+- 📊 **Interactive Tableau Dashboard**: [View Here](https://public.tableau.com/app/profile/dustin.sherratt/viz/Portfolio_17519795010140/Dashboard1)
 - 📄 **One-Page Datafolio (PDF)**: (to be uploaded in repo)  
 - 📑 **Data Curation Summaries**: see `/docs/`  
 
