@@ -66,7 +66,7 @@ Click the badge at the top of this page to open the notebook directly in Colab.
 ### Option 2: Run Locally  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ecommerce-returns-analysis.git
+   git clone https://github.com/dustinsherratt/ecommerce-returns-analysis.git
    cd ecommerce-returns-analysis
 
 
