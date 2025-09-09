@@ -69,4 +69,10 @@ Click the badge at the top of this page to open the notebook directly in Colab.
    git clone https://github.com/dustinsherratt/ecommerce-returns-analysis.git
    cd ecommerce-returns-analysis
 
+2. Install requirements:
+   ```bash
+   pip install -r requirements.txt
 
+3. Open the notebook in Jupyter:
+   ```bash
+   jupyter notebook notebooks/ecommerce_return_analysis.ipynb
