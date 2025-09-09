@@ -76,3 +76,14 @@ Click the badge at the top of this page to open the notebook directly in Colab.
 3. Open the notebook in Jupyter:
    ```bash
    jupyter notebook notebooks/ecommerce_return_analysis.ipynb
+
+
+📬 Author
+
+`Dustin Roger Sherratt`
+
+[Linkedin](linkedin.com/in/dustinsherratt)
+
+[GitHub](github.com/dustinsherratt)
+
+dustinsherratt143@gmail.com
