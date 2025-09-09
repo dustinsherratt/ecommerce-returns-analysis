@@ -55,7 +55,12 @@ The analysis was performed in **Python (Google Colab)** with **pandas, matplotli
 ## 📈 Results & Deliverables  
 - 📊 **Interactive Tableau Dashboard**: [View Here](https://public.tableau.com/app/profile/dustin.sherratt/viz/Portfolio_17519795010140/Dashboard1)
 - 📄 **One-Page Datafolio (PDF)**: (to be uploaded in repo)  
-- 📑 **Data Curation Summaries**: see `/docs/`  
+- 📑 **Data Curation Summaries**:
+Detailed dataset profiling, cleaning, and schema information is available in the `/docs/` folder:  
+
+- **Markdown (recommended for GitHub viewing):** [data_curation_summaries.md](docs/data_curation_summaries.md)  
+- **Word document (downloadable):** [data_curation_summaries.docx](docs/data_curation_summaries.docx)
+
 
 ---
 
