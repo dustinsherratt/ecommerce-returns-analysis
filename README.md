@@ -59,7 +59,7 @@ The analysis was performed in **Python (Google Colab)** with **pandas, matplotli
 Detailed dataset profiling, cleaning, and schema information is available in the `/docs/` folder:  
 
 - **Markdown (recommended for GitHub viewing):** [data_curation_summaries.md](docs/data_curation_summaries.md)  
-- **Word document (downloadable):** [data_curation_summaries.docx](docs/data_curation_summaries.docx)
+- **Word document (downloadable):** [data_curation_summaries.docx](docs/data_curation_summaries_word_format.doc)
 
 
 ---
