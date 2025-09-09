@@ -1,6 +1,6 @@
 # 📦 Reducing Return-Driven Revenue Loss: E-Commerce Analysis with Olist Dataset  
 Analysis of e-commerce returns using the Olist Brazilian dataset (Python + Colab + Tableau)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/139HSi5XUYoQSB55-RIBgacEAiJt65pG2?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/139HSi5XUYoQSB55-RIBgacEAiJt65pG2?usp=sharing)
 
 ## 📊 Project Overview  
 This project explores **customer return behavior** in e-commerce using the **Olist Brazilian E-commerce Dataset**.  
